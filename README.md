@@ -2,8 +2,9 @@
 Pytorch implementation for TSR-VFD: Generating Temporal Super-resolution for Unsteady Vector Field Data.
 ```
 
-If you want to change the upscale
-```bash
+## Train
+
+```
 python3 main.py 
 ```
 
