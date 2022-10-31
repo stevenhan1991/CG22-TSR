@@ -7,7 +7,7 @@ The vector data at each time step is saved as a .dat file with the little-endian
 
 ## Archiecture
 
-TSR-VFD contains two branches. The first branch predicts the intermediate vector fields given two endding vectors. The second branch produces masks for sovling the problem of unbalance vaue range on different vector componenet.
+TSR-VFD contains two branches. The first branch predicts the intermediate vector fields given two endding vectors. The second branch produces masks for sovling the problem of unbalance value range on different vector componenet.
 
 
 ## Train
