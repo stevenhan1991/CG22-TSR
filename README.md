@@ -13,6 +13,10 @@ TSR-VFD contains two branches. The first branch predicts the intermediate vector
 ## Train
 
 ```
+cd Code 
+```
+
+```
 python3 main.py 
 ```
 
